@@ -1,4 +1,4 @@
-# Social network Analysis
+# Social Network Analysis
 
 ## Overview
 This repository contains practice materials and programming exercises from the 2025 Social Data Programming course at Kyung Hee University. Some web crawling scripts are based on materials copyrighted by Sujin Choi and are included in this public portfolio with her permission for non-commercial and academic purposes.
