@@ -6,7 +6,7 @@ This repository contains practice materials and programming exercises from the 2
 R scripts and HTML files are available in the `practices` folder. The rendered HTML files can be accessed via the links below.
 
 ## Practices: Rendered HTML Files
-[1. Data Collecting via Web Crawling Using RSelenium](https://JillieKang.github.io/social-network-analysis/practices/001_web_crawling.html)
+[1. Data Collecting via Web Crawling Using RSelenium](https://JillieKang.github.io/social-network-analysis/practices/001_web_crawling.R)
 
 [2. Edge Lists and Networks](https://JillieKang.github.io/social-network-analysis/practices/002_edge_lists.html)
 
