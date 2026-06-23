@@ -12,8 +12,6 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 
 [3. Network Centrality, Density, and Centralization Analysis of and Visualization (.html)](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization.html)
 
-## Practices: Topics Covered
-
 ## Skills Developed
 - Web crawling and data collection
 - Browser automation using RSelenium
@@ -41,6 +39,8 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - dplyr
 - tidyr
 - curl
+
+## Practices: Topics Covered
 
 ### 1. Web Crawling and Data Collection Using RSelenium
 
