@@ -62,7 +62,6 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - Collecting hierarchical comment data
 - Removing duplicated posts
 - Filtering collected data by date range
-- Exporting crawled data to Excel files
 
 ### 2. Constructing Edge Lists and Networks
 
@@ -84,10 +83,8 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - Constructing directed weighted networks
 - Creating weighted edge attributes based on interaction frequencies
 - Converting edge lists into adjacency matrices
-- Sorting node IDs for QAP analysis
-- Integrating node-level political orientation attributes
+- Integrating node-level attributes
 - Generating dyadic similarity matrices based on shared political orientations
-- Exporting network data for subsequent social network analysis
 
 ### 3. Network Centrality, Density, and Centralization Analysis and Visualization
 
@@ -104,13 +101,6 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - `membership()`
 - `vcount()`
 - `is_directed()`
-
-#### Data Sets
-- Weighted adjacency matrices
-- Directed weighted networks
-- Degree centrality measures
-- Betweenness centrality measures
-- Community membership data
 
 #### Key Operations
 - Converting adjacency matrices into directed weighted networks
