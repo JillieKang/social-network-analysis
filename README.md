@@ -10,6 +10,6 @@ R scripts and HTML files are available in the `practices` folder. The rendered H
 
 [2. Edge Lists and Networks](https://JillieKang.github.io/social-network-analysis/practices/002_edge_list.html)
 
-[3.Centrality, Density, and Centralization Analysis of the Network and Visualization](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization.html)
+[3. Centrality, Density, and Centralization Analysis of the Network and Visualization](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization.html)
 
 
