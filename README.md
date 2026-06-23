@@ -14,6 +14,34 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 
 ## Practices: Topics Covered
 
+## Skills Developed
+- Web crawling and data collection
+- Browser automation using RSelenium
+- Social network analysis (SNA)
+- Network construction from interaction data
+- Edge list generation
+- Adjacency matrix construction
+- Directed and weighted network analysis
+- Centrality analysis
+- Network density and centralization analysis
+- Community detection
+- Network visualization
+
+## Tools
+- R
+- R Markdown
+- knitr
+- HTML
+- GitHub Pages
+
+## R Packages
+- RSelenium
+- rvest
+- igraph
+- dplyr
+- tidyr
+- curl
+
 ### 1. Web Crawling and Data Collection Using RSelenium
 
 #### Functions
@@ -23,16 +51,6 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - `getPageSource()`
 - `URLencode()`
 - `read_html()`
-- `scrap_vec_of_post_for_()`
-- `get_post_detail_info()`
-- `get_all_of_comment_df()`
-- `write.xlsx()`
-
-#### Data Sets
-- Ppomppu Freeboard search results
-- Post metadata
-- Post details
-- Comment data
 
 #### Key Operations
 - Constructing dynamic URLs with search keywords and page numbers
@@ -49,28 +67,12 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 ### 2. Constructing Edge Lists and Networks
 
 #### Functions
-- `left_join()`
-- `inner_join()`
-- `group_by()`
-- `summarise()`
-- `mutate()`
-- `replace_na()`
 - `strsplit()`
 - `unnest()`
 - `graph_from_data_frame()`
 - `as_adjacency_matrix()`
 - `as_data_frame()`
 - `vcount()`
-- `write.xlsx()`
-- `write.csv()`
-
-#### Data Sets
-- Post metadata
-- Comment data
-- User ID mappings
-- Edge lists
-- Adjacency matrices
-- Political orientation data
 
 #### Key Operations
 - Assigning unique IDs to users
@@ -102,7 +104,6 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 - `membership()`
 - `vcount()`
 - `is_directed()`
-- `write.xlsx()`
 
 #### Data Sets
 - Weighted adjacency matrices
