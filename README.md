@@ -8,8 +8,8 @@ R scripts and HTML files are available in the `practices` folder. The rendered H
 ## Practices: Rendered HTML Files
 [1. Data Collecting via Web Crawling Using RSelenium](https://JillieKang.github.io/social-network-analysis/practices/001_web_crawling.R)
 
-[2. Edge Lists and Networks](https://JillieKang.github.io/social-network-analysis/practices/002_edge_lists.html)
+[2. Edge Lists and Networks](https://JillieKang.github.io/social-network-analysis/practices/002_edge_list.html)
 
-[3.Centrality, Density, and Centralization Analysis of the Network and Visualization](https://JillieKang.github.io/social-network-analysis/practices/practices/003_centrality_density_centralization.html)
+[3.Centrality, Density, and Centralization Analysis of the Network and Visualization](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization.html)
 
 
