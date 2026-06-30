@@ -3,9 +3,9 @@
 ## Overview
 This repository contains practice materials and programming exercises from the 2025 Social Data Programming course at Kyung Hee University. Most of web crawling scripts are based on teaching materials developed by Professor Sujin Choi and are included here with her permission for non-commercial and academic purposes.
 
-R scripts and HTML files are available in the `practices` folder and via the links below. For HTML files, it is recommended to view the rendered versions through the links below rather than opening the raw files directly.
+R scripts and HTML files are available in the `practices` folder and via the links below. When opening the R scripts locally, please use UTF-8 encoding. For HTML files, it is recommended to view the rendered versions through the links below rather than opening the raw files directly.
 
-## Practices: Rendered HTML Files 
+## Practice Files 
 [1. Web Scraping and Data Collection Using RSelenium (.R)](https://JillieKang.github.io/social-network-analysis/practices/001_web_scraping.R)
 
 [2. Edge Lists and Networks (.html)](https://JillieKang.github.io/social-network-analysis/practices/002_edge_list.html)
