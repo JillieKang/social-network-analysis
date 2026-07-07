@@ -10,7 +10,7 @@ R scripts and HTML files are available in the `practices` folder and via the lin
 
 [2. Edge Lists and Networks (.html)](https://JillieKang.github.io/social-network-analysis/practices/002_edge_list.html)
 
-[3. Network Centrality, Density, and Centralization Analysis of and Visualization (.html)](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization.html)
+[3. Network Centrality, Density, and Centralization Analysis and Community Detection (.html)](https://JillieKang.github.io/social-network-analysis/practices/003_centrality_density_centralization_community_detection.html)
 
 ## Skills Developed
 - Web crawling and data collection
